@@ -11,9 +11,12 @@ Model Evaluation: Provides methods for evaluating the performance of the trained
 <img src="https://github.com/Saarthakm4/Toxicity_detection_model/blob/main/.idea/Screenshot%202024-03-11%20011505.png" alt="Screenshot" title="Screenshot">
 
 
+
 ## Usage
 
-Clone the Repository: Clone the repository to your local machine using the following command:
+Clone the Repository: Clone the repository to your local machine using the following command
+<img src="https://github.com/Saarthakm4/Toxicity_detection_model/blob/main/.idea/Screenshot%202024-03-11%20011519.png" alt="Screenshot" title="Screenshot">
+
 
 
 ## Copy code
