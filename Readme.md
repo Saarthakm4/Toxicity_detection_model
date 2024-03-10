@@ -8,6 +8,8 @@ Toxicity in online discussions and social media platforms is a significant issue
 Data Preprocessing: The notebook demonstrates how to preprocess text data for toxicity detection.
 Model Training: Shows how to train a toxicity detection model using a machine learning algorithm.
 Model Evaluation: Provides methods for evaluating the performance of the trained model.
+<img src="https://github.com/Saarthakm4/Toxicity_detection_model/blob/main/.idea/Screenshot%202024-03-11%20011505.png" alt="Screenshot" title="Screenshot">
+
 
 ## Usage
 
