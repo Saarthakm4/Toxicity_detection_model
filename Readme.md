@@ -1,3 +1,4 @@
+Toxicity Detection Model
 Welcome to the Toxicity Detection Model repository! This project aims to identify toxic comments in online discussions using machine learning techniques. Toxic comments can have a detrimental effect on online communities, and our goal is to provide a tool to help identify and mitigate such toxicity.
 
 Overview
